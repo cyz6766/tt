@@ -541,39 +541,9 @@
       "group": "自定义",
       "channels": [
         {
-          "name": "安徽经视",
+          "name": "纯享4K",
           "urls": [
-            "http://zbbf2.ahtv.cn/live/750.m3u8"
-          ]
-        },
-        {
-          "name": "安徽综艺",
-          "urls": [
-            "http://zbbf2.ahtv.cn/live/758.m3u8"
-          ]
-        },
-        {
-          "name": "安徽影视",
-          "urls": [
-            "http://zbbf2.ahtv.cn/live/756.m3u8"
-          ]
-        },
-        {
-          "name": "安徽科教",
-          "urls": [
-            "http://zbbf2.ahtv.cn/live/754.m3u8"
-          ]
-        },
-        {
-          "name": "安徽公共",
-          "urls": [
-            "http://zbbf2.ahtv.cn/live/752.m3u8"
-          ]
-        },
-        {
-          "name": "安徽人物",
-          "urls": [
-            "http://zbbf2.ahtv.cn/live/da9.m3u8"
+            "http://39.135.33.12/PLTV/77777777/224/3221226802/index.m3u8"
           ]
         }
       ]
@@ -584,23 +554,19 @@
         {
           "name": "CCTV-1",
           "urls": [
-            "http://39.135.33.12/PLTV/77777777/224/3221226674/index.m3u8",
-            "http://39.134.24.24/PLTV/88888888/224/3221226024/index.m3u8"
+            "http://39.135.33.12/PLTV/77777777/224/3221226674/index.m3u8"
           ]
         },
         {
           "name": "CCTV-2",
           "urls": [
-            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2",
-            "http://39.134.24.24/PLTV/88888888/224/3221225686/index.m3u8"
+            "http://39.135.33.12/PLTV/77777777/224/3221226599/index.m3u8"
           ]
         },
         {
           "name": "CCTV-3",
           "urls": [
-            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3",
-            "http://39.134.24.24/PLTV/88888888/224/3221226023/index.m3u8",
-            "http://39.134.24.24/PLTV/88888888/224/3221225630/index.m3u8"
+            "http://39.135.33.12/PLTV/77777777/224/3221226548/index.m3u8"
           ]
         },
         {
