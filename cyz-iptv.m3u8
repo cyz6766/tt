@@ -73,8 +73,6 @@ http://39.135.33.12/PLTV/77777777/224/3221226645/index.m3u8
 http://39.135.33.12/PLTV/77777777/224/3221226800/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江卫视HD
 http://39.135.33.12/PLTV/77777777/224/3221226656/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视HD 8M
-http://39.135.33.12/PLTV/77777777/224/3221226723/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视HD
 http://39.135.33.12/PLTV/77777777/224/3221226615/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视HD
