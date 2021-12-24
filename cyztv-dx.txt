@@ -108,5 +108,3 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 ,HKS卫视 高清
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 ,TVB财经台
-http://prdsecurelive.ainemo.com/live/225cjcj.flv
