@@ -27,3 +27,4 @@ CYZ-卫视,#genre#
 湖南卫视HD,http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
 NewTV中国功夫HD,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 NewTV农业致富HD,http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
+南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
