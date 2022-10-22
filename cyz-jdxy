@@ -1,5 +1,4 @@
-CYZ-央视,#genre#
-CCTV-1综合,	http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel5/index.m3u8
-CYZ-体育,#genre#
+CYZ-卫视,#genre#
+CCTV-1综合4M,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel5/index.m3u8
 CCTV-5体育,http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
-CCTV-6电影,http://39.134.32.102:6610/270000001111/1110000156/index.m3u8?IASHttpSessionId=OTT
+CCTV-6高清,http://39.134.32.102:6610/270000001111/1110000156/index.m3u8?IASHttpSessionId=OTT
