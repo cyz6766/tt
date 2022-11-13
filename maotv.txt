@@ -1,6 +1,6 @@
 {
 "storeHouse": [
-{"sourceName":"多多总仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/fast.json"},
+{"sourceName":"多多总仓","sourceUrl":"https://gitlab.com/duomv/duo/-/raw/main/m.json"},
 {"sourceName":"CYZTV","sourceUrl":"https://cyz6766.github.io/tt/cyztv2021.txt"},
 {"sourceName":"多多大佬仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/3.txt"},
 {"sourceName":"多多预备仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/4.txt"}
