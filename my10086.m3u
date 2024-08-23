@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1
+http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225654/index.m3u8
+#EXTINF:-1 ,CCTV2
+http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225657/index.m3u8
+#EXTINF:-1 ,CCTV3
+http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225713/index.m3u8
+#EXTINF:-1 ,CCTV4
+http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225761/index.m3u8
+#EXTINF:-1 ,CCTV5
+http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225660/index.m3u8
+#EXTINF:-1 ,CCTV5+
+http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225712/index.m3u8
+#EXTINF:-1 ,CCTV6
+http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225715/index.m3u8
+#EXTINF:-1 ,CCTV7
+http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225700/index.m3u8
+#EXTINF:-1 ,CCTV8
+http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225716/index.m3u8
+#EXTINF:-1 ,CCTV9
+http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225663/index.m3u8
+#EXTINF:-1 ,CCTV10
+http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225704/index.m3u8
+#EXTINF:-1 ,CCTV11
+http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225739/index.m3u8
+#EXTINF:-1 ,CCTV12
+http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225645/index.m3u8
+#EXTINF:-1 ,CCTV13
+http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225742/index.m3u8
+#EXTINF:-1 ,CCTV14
+http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225648/index.m3u8
+#EXTINF:-1 ,CCTV15
+http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225693/index.m3u8
+#EXTINF:-1 ,CCTV16
+http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225937/index.m3u8
+#EXTINF:-1 ,CCTV17
+http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/index.m3u8
+#EXTINF:-1 ,CCTV高尔夫网球
+http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225884/index.m3u8
+#EXTINF:-1 ,CCTV集成播控
+http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225885/index.m3u8
+#EXTINF:-1 ,江苏卫视
+http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225722/index.m3u8
+#EXTINF:-1 ,爱情喜剧
+http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225698/index.m3u8
+#EXTINF:-1 ,咪咕高清
+http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225863/index.m3u8
+#EXTINF:-1 ,4K-UHD
+http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225726/index.m3u8
