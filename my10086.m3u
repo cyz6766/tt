@@ -1,49 +1,49 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV1
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225654/index.m3u8
-#EXTINF:-1 ,CCTV2
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225657/index.m3u8
-#EXTINF:-1 ,CCTV3
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV3
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225713/index.m3u8
-#EXTINF:-1 ,CCTV4
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225761/index.m3u8
-#EXTINF:-1 ,CCTV5
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225660/index.m3u8
-#EXTINF:-1 ,CCTV5+
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225712/index.m3u8
-#EXTINF:-1 ,CCTV6
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225715/index.m3u8
-#EXTINF:-1 ,CCTV7
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV7
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225700/index.m3u8
-#EXTINF:-1 ,CCTV8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV8
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225716/index.m3u8
-#EXTINF:-1 ,CCTV9
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV9
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225663/index.m3u8
-#EXTINF:-1 ,CCTV10
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV10
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225704/index.m3u8
-#EXTINF:-1 ,CCTV11
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV11
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225739/index.m3u8
-#EXTINF:-1 ,CCTV12
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV12
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225645/index.m3u8
-#EXTINF:-1 ,CCTV13
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV13
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225742/index.m3u8
-#EXTINF:-1 ,CCTV14
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV14
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225648/index.m3u8
-#EXTINF:-1 ,CCTV15
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225693/index.m3u8
-#EXTINF:-1 ,CCTV16
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV16
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225937/index.m3u8
-#EXTINF:-1 ,CCTV17
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV17
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/index.m3u8
-#EXTINF:-1 ,CCTV高尔夫网球
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV高尔夫网球
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225884/index.m3u8
-#EXTINF:-1 ,CCTV集成播控
+#EXTINF:-1 group-title="未分类",集成播控
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225885/index.m3u8
-#EXTINF:-1 ,江苏卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",江苏卫视
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225722/index.m3u8
-#EXTINF:-1 ,爱情喜剧
+#EXTINF:-1 group-title="未分类",爱情喜剧
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225698/index.m3u8
-#EXTINF:-1 ,咪咕高清
+#EXTINF:-1 group-title="未分类",咪咕高清
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225863/index.m3u8
-#EXTINF:-1 ,4K-UHD
+#EXTINF:-1 group-title="4K",4K-UHD
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225726/index.m3u8
