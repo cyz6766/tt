@@ -168,9 +168,6 @@ CCTV17,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/322122
 广东珠江,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225717/index.m3u8
 广西卫视标清,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225872/index.m3u8
 集成播控,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225885/index.m3u8
-MYTV-4K,#genre#
-4K-UHD,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225726/index.m3u8
-咪咕高清,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225863/index.m3u8
 CYZ-央视,#genre#
 CCTV1,http://39.135.32.28:6610/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV2,http://39.135.32.28:6610/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1&IASHttpSessionId=OTT
