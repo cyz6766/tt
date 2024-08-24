@@ -1,4 +1,4 @@
-CYZ-MYTV-央视,#genre#
+MYTV-央视,#genre#
 CCTV1,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225654/index.m3u8
 CCTV2,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225657/index.m3u8
 CCTV3,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225713/index.m3u8
@@ -19,7 +19,7 @@ CCTV16,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/322122
 CCTV17,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/index.m3u8
 CCTV高尔夫网球,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225884/index.m3u8
 网络央视,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225758/index.m3u8
-CYZ-MYTV-卫视,#genre#
+MYTV-卫视,#genre#
 安徽卫视,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225701/index.m3u8
 北京卫视,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225651/index.m3u8
 兵团卫视,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225795/index.m3u8
@@ -53,7 +53,7 @@ CYZ-MYTV-卫视,#genre#
 新疆卫视,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225788/index.m3u8
 云南卫视,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225794/index.m3u8
 浙江卫视,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225731/index.m3u8
-CYZ-MYTV-其它,#genre#
+MYTV-其它,#genre#
 精品纪录,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225681/index.m3u8
 纪实科教,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225995/index.m3u8
 农业致富,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225687/index.m3u8
@@ -168,7 +168,7 @@ CCTV17,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/322122
 广东珠江,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225717/index.m3u8
 广西卫视标清,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225872/index.m3u8
 集成播控,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225885/index.m3u8
-CYZ-MYTV-4K,#genre#
+MYTV-4K,#genre#
 4K-UHD,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225726/index.m3u8
 咪咕高清,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225863/index.m3u8
 CYZ-央视,#genre#
