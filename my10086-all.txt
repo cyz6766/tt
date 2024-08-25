@@ -148,9 +148,7 @@ CCTV13,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/322122
 CCTV15,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225945/index.m3u8
 CCTV16,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225956/index.m3u8
 CCTV17,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225910/index.m3u8
-怡伴健康,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225684/index.m3u8
 安徽卫视,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225886/index.m3u8
-中国移动监控,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225888/index.m3u8
 北京卫视,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225889/index.m3u8
 上海卫视,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225942/index.m3u8
 深圳卫视,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225951/index.m3u8
@@ -168,6 +166,8 @@ CCTV17,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/322122
 广东珠江,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225717/index.m3u8
 广西卫视标清,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225872/index.m3u8
 集成播控,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225885/index.m3u8
+中国移动监控,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225888/index.m3u8
+怡伴健康,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225684/index.m3u8
 CYZ-MYTV-4K,#genre#
 4K-UHD,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225726/index.m3u8
 咪咕高清,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225863/index.m3u8
