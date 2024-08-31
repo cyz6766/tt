@@ -217,7 +217,7 @@ CYZ-童话镇5季,#genre#
 18,https://s3.bfzycdn.com/video/tonghuazhendiwuji/%E7%AC%AC19%E9%9B%86/index.m3u8
 19,https://s3.bfzycdn.com/video/tonghuazhendiwuji/%E7%AC%AC20%E9%9B%86/index.m3u8
 20,https://s3.bfzycdn.com/video/tonghuazhendiwuji/%E7%AC%AC21%E9%9B%86/index.m3u8
-21,https://s3.bfzycdn.com/video/tonghuazhendiwuji/%E7%AC%AC22%E9%9B%86/index.m3u8
+21,https://s3.bfzycdn.com/video/tonghuazhendiwuji/%E7%AC%AC23%E9%9B%86/index.m3u8
 CYZ-童话镇6季,#genre#
 0,https://s3.bfzycdn.com/video/tonghuazhendiliuji/%E7%AC%AC01%E9%9B%86/index.m3u8
 1,https://s3.bfzycdn.com/video/tonghuazhendiliuji/%E7%AC%AC02%E9%9B%86/index.m3u8
