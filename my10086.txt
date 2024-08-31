@@ -19,6 +19,7 @@ CCTV16,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/322122
 CCTV17,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/index.m3u8
 CCTV高尔夫网球,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225884/index.m3u8
 网络央视,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225758/index.m3u8
+CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 MYTV-卫视,#genre#
 安徽卫视,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225701/index.m3u8
 北京卫视,http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225651/index.m3u8
