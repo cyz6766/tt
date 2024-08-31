@@ -43,7 +43,6 @@ http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225722/in
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225698/index.m3u8
 #EXTINF:-1 group-title="未分类",集成播控
 http://39.135.33.12:80/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225885/index.m3u8
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="IPV6央视频道",CCTV-1 综合
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="IPV6央视频道",CCTV-2 财经
