@@ -90,6 +90,16 @@
       "changeable": 1
     },
     {
+  "key": "flixflop01",
+  "name": "Flixflop优质站点",
+  "type": 3,
+  "api": "csp_DefaultGuard",
+  "searchable": 1,
+  "changeable": 1,
+  "timeout": 60,
+  "ext": "https://www.flixflop.com/"
+    },
+    {
       "key": "NewMuOu",
       "name": "💓木偶┃4K💓",
       "type": 3,
