@@ -3,160 +3,386 @@
   "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
   "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
   "sites": [
-    // 核心影视源（4K+秒播）
+    {
+      "key": "NewDouBan",
+      "name": "🐮【公众号：王二小放牛娃】🐮",
+      "type": 3,
+      "api": "csp_NewDouBanGuard"
+    },
     {
       "key": "二小",
       "name": "💓‍二小┃4K💓‍",
       "type": 3,
       "api": "csp_NewErXiaoGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "isActive": 1,
-      "priority": 1
+      "tags": ["4K", "高清"]
     },
     {
       "key": "玩偶",
       "name": "💓‍玩偶┃4K💓‍",
       "type": 3,
       "api": "csp_NewWoggGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "isActive": 1,
-      "priority": 1
+      "tags": ["4K", "高清"]
     },
     {
       "key": "NewZhiZhen",
       "name": "💓至臻┃4K💓",
       "type": 3,
       "api": "csp_NewZhiZhenGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "isActive": 1,
-      "priority": 1
+      "tags": ["4K", "高清"]
     },
     {
-      "key": "WexYiYs",
-      "name": "💥伊影┃秒播💥",
+      "key": "NewGuanYing",
+      "name": "💓观影┃4K💓",
       "type": 3,
-      "api": "csp_WexYiYsGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "isActive": 1,
-      "priority": 1
+      "api": "csp_NewGuanYingGuard",
+      "timeout": 80,
+      "tags": ["4K", "高清"]
+    },
+    {
+      "key": "NewJuTou",
+      "name": "💓剧透┃4K💓",
+      "type": 3,
+      "api": "csp_NewJuTouGuard",
+      "tags": ["4K", "高清"]
+    },
+    {
+      "key": "NewHuBan",
+      "name": "💓虎斑┃4K💓",
+      "type": 3,
+      "api": "csp_NewHuBanGuard",
+      "tags": ["4K", "高清"]
+    },
+    {
+      "key": "NewShaYang",
+      "name": "💓傻样┃4K💓",
+      "type": 3,
+      "api": "csp_NewShaYangGuard",
+      "tags": ["4K", "高清"]
+    },
+    {
+      "key": "NewMuOu",
+      "name": "💓木偶┃4K💓",
+      "type": 3,
+      "api": "csp_NewMuOuGuard",
+      "tags": ["4K", "高清"]
+    },
+    {
+      "key": "NewDuoDuo",
+      "name": "💓多多┃4K💓",
+      "type": 3,
+      "api": "csp_NewDuoDuoGuard",
+      "timeout": 80,
+      "tags": ["4K", "高清"]
+    },
+    {
+      "key": "雷鲸",
+      "name": "💓‍雷鲸┃4K💓‍",
+      "type": 3,
+      "api": "csp_NewLeiJingGuard",
+      "tags": ["4K", "高清"]
+    },
+    {
+      "key": "NewPanMe123",
+      "name": "💓123┃4K💓",
+      "type": 3,
+      "api": "csp_NewPanMe123Guard",
+      "tags": ["4K", "高清"]
+    },
+    {
+      "key": "盘他",
+      "name": "💓‍盘他┃4K💓‍",
+      "type": 3,
+      "api": "csp_NewPanTaGuard",
+      "tags": ["4K", "高清"]
+    },
+    {
+      "key": "WexHanXiaoQuan",
+      "name": "💥韩剧┃秒播💥",
+      "type": 3,
+      "api": "csp_WexHanXiaoQuanGuard",
+      "tags": ["秒播", "韩剧"]
     },
     {
       "key": "WexGuaZi",
       "name": "💥瓜子┃秒播💥",
       "type": 3,
       "api": "csp_WexGuaZiGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "isActive": 1,
-      "priority": 1
+      "tags": ["秒播", "综合"]
+    },
+    {
+      "key": "賤賤",
+      "name": "💥贱片┃秒播💥",
+      "type": 3,
+      "api": "csp_WexJianPianGuard",
+      "tags": ["秒播", "影视"]
+    },
+    {
+      "key": "WexWenCai",
+      "name": "💥文才┃秒播💥",
+      "type": 3,
+      "api": "csp_WexWenCaiGuard",
+      "tags": ["秒播", "影视"]
+    },
+    {
+      "key": "WexDuBoKu",
+      "name": "💥独播┃秒播💥",
+      "type": 3,
+      "api": "csp_WexDuBoKuGuard",
+      "tags": ["秒播", "独播"]
+    },
+    {
+      "key": "WexYueYue",
+      "name": "💥闪电┃秒播💥",
+      "type": 3,
+      "api": "csp_WexYueYueGuard",
+      "tags": ["秒播", "快速加载"]
+    },
+    {
+      "key": "WexYiYs",
+      "name": "💥伊影┃秒播💥",
+      "type": 3,
+      "api": "csp_WexYiYsGuard",
+      "tags": ["秒播", "影视"]
     },
     {
       "key": "WexReBo",
       "name": "💥热播┃秒播💥",
       "type": 3,
       "api": "csp_WexReBoGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "isActive": 1,
-      "priority": 1
-    },
-    // 短剧源
-    {
-      "key": "DuanJuHaoKan",
-      "name": "🍉短剧┃好看🍉",
-      "type": 3,
-      "api": "csp_DuanJuHaoKanGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "isActive": 1,
-      "priority": 1
+      "tags": ["秒播", "热播"]
     },
     {
-      "key": "DuanJuQiMiao",
-      "name": "🍉短剧┃小猫🍉",
+      "key": "WexXiongYing",
+      "name": "💥雄鹰┃秒播💥",
       "type": 3,
-      "api": "csp_DuanJuQiMiaoGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "isActive": 1,
-      "priority": 1
+      "api": "csp_WexXiongYingGuard",
+      "tags": ["秒播", "影视"]
     },
-    // 磁力+采集源
+    {
+      "key": "WexBoBo",
+      "name": "🎇伯伯┃秒播🎇",
+      "type": 3,
+      "api": "csp_WexBoBoGuard",
+      "tags": ["秒播", "综合"]
+    },
+    {
+      "key": "WexBtTwo",
+      "name": "🎇鼻涕┃秒播🎇",
+      "type": 3,
+      "api": "csp_WexBtTwoGuard",
+      "tags": ["秒播", "影视"]
+    },
     {
       "key": "新6V",
       "name": "🎇新6V┃磁力🎇",
       "type": 3,
       "api": "csp_WexXb6vGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "isActive": 1,
-      "priority": 1
+      "tags": ["磁力", "资源"]
     },
     {
       "key": "WexIkanBot",
       "name": "🎇爱看┃采集🎇",
       "type": 3,
       "api": "csp_WexIkanBotGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "isActive": 1,
-      "priority": 1
+      "tags": ["采集", "影视"]
     },
-    // 核心网盘源
     {
-      "key": "MyBaiDu",
-      "name": "💓我的┃百度💓‍",
+      "key": "DuanJuHaoKan",
+      "name": "🍉短剧┃好看🍉",
       "type": 3,
-      "api": "csp_MyBaiDuGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 80,
-      "isActive": 1,
-      "priority": 1
+      "api": "csp_DuanJuHaoKanGuard",
+      "tags": ["短剧", "热门"]
+    },
+    {
+      "key": "DuanJuQiMiao",
+      "name": "🍉短剧┃小猫🍉",
+      "type": 3,
+      "api": "csp_DuanJuQiMiaoGuard",
+      "tags": ["短剧", "热门"]
+    },
+    {
+      "key": "DuanJuHeMa",
+      "name": "🍉短剧┃小马🍉",
+      "type": 3,
+      "api": "csp_DuanJuHeMaGuard",
+      "tags": ["短剧", "热门"]
+    },
+    {
+      "key": "DuanJuXingYa",
+      "name": "🍉短剧┃星星🍉",
+      "type": 3,
+      "api": "csp_DuanJuXingYaGuard",
+      "tags": ["短剧", "热门"]
+    },
+    {
+      "key": "DuanJuWeiGuan",
+      "name": "🍉短剧┃小薇🍉",
+      "type": 3,
+      "api": "csp_DuanJuWeiGuanGuard",
+      "tags": ["短剧", "热门"]
+    },
+    {
+      "key": "emby",
+      "name": "🀄️emby┃4K🀄️",
+      "type": 3,
+      "api": "csp_EmbyGuard",
+      "tags": ["4K", "影音"]
+    },
+    {
+      "key": "AList",
+      "name": "👁️Alist┃DIY👁️",
+      "type": 3,
+      "api": "csp_AListGuard",
+      "tags": ["DIY", "资源"]
+    },
+    {
+      "key": "webdav",
+      "name": "👁️WebDav┃DIY👁️",
+      "type": 3,
+      "api": "csp_WebDAVGuard",
+      "tags": ["DIY", "存储"]
     },
     {
       "key": "MyQuark",
       "name": "💓我的┃夸克💓‍",
       "type": 3,
       "api": "csp_MyQuarkGuard",
-      "searchable": 1,
-      "changeable": 1,
       "timeout": 80,
-      "isActive": 1,
-      "priority": 1
+      "tags": ["网盘", "夸克"],
+      "style": {
+        "type": "list"
+      }
     },
-    // 基础搜索工具
+    {
+      "key": "MyBaiDu",
+      "name": "💓我的┃百度💓‍",
+      "type": 3,
+      "api": "csp_MyBaiDuGuard",
+      "timeout": 80,
+      "tags": ["网盘", "百度"],
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "MyUcPan",
+      "name": "💓我的┃UC💓‍",
+      "type": 3,
+      "api": "csp_MyUcPanGuard",
+      "timeout": 80,
+      "tags": ["网盘", "UC"],
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "MyPan189",
+      "name": "💓我的┃天翼💓‍",
+      "type": 3,
+      "api": "csp_MyPan189Guard",
+      "timeout": 80,
+      "tags": ["网盘", "天翼"],
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "MyPan115",
+      "name": "💓我的┃115💓‍",
+      "type": 3,
+      "api": "csp_MyPan115Guard",
+      "timeout": 80,
+      "tags": ["网盘", "115"],
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "MyPan123",
+      "name": "💓我的┃123💓‍",
+      "type": 3,
+      "api": "csp_MyPan123Guard",
+      "timeout": 80,
+      "tags": ["网盘", "123"],
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "SoTySo",
+      "name": "🎠给力┃天逸🎠",
+      "type": 3,
+      "api": "csp_SoTySoGuard",
+      "tags": ["搜索", "综合"]
+    },
     {
       "key": "SoBaiDuSo",
       "name": "🎠给力┃百度🎠",
       "type": 3,
       "api": "csp_SoBaiDuSoGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "isActive": 1,
-      "priority": 1
+      "tags": ["搜索", "百度"]
+    },
+    {
+      "key": "SoHaiYin",
+      "name": "🎠海音┃综合🎠",
+      "type": 3,
+      "api": "csp_SoHaiYinGuard",
+      "tags": ["搜索", "综合"]
+    },
+    {
+      "key": "SoTjSo",
+      "name": "🎠太极┃综合🎠",
+      "type": 3,
+      "api": "csp_SoTjSoGuard",
+      "tags": ["搜索", "综合"]
+    },
+    {
+      "key": "SoAiPan",
+      "name": "🎠给力┃综合🎠",
+      "type": 3,
+      "api": "csp_SoAiPanGuard",
+      "tags": ["搜索", "综合"]
+    },
+    {
+      "key": "So97So",
+      "name": "🎠九七┃综合🎠",
+      "type": 3,
+      "api": "csp_So97SoGuard",
+      "tags": ["搜索", "综合"]
+    },
+    {
+      "key": "SoZhaoPanSo",
+      "name": "🎠找盘┃综合🎠",
+      "type": 3,
+      "api": "csp_SoZhaoPanSoGuard",
+      "tags": ["搜索", "网盘"]
+    },
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_PushGuard",
+      "tags": ["工具", "推送"]
     }
   ],
   "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": ["8.8.4.4", "8.8.8.8"]
+    },
     {
       "name": "Cloudflare",
       "url": "https://cloudflare-dns.com/dns-query",
       "ips": ["1.1.1.1", "1.0.0.1"]
     }
   ],
-  "rules": [], // 清空所有嗅探、弹窗处理规则（避免冗余）
-  "ads": [], // 清空广告屏蔽列表（精简核心）
+  "rules": [],
+  "ads": [
+    "mozai.4gtv.tv",
+    "pv.vipwm.cc",
+    "static-mozai.4gtv.tv"
+  ],
   "lives": [],
-  "headers": [
-    {
-      "host": "*.bcebos.com",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
-      }
-    }
-  ]
+  "headers": []
 }
