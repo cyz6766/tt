@@ -1,0 +1,162 @@
+{
+  "spider": "https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1773590746871EVvRTL.txt;md5;61d375e3e58944d2674f47f2236719a8",
+  "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
+  "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
+  "sites": [
+    // 核心影视源（4K+秒播）
+    {
+      "key": "二小",
+      "name": "💓‍二小┃4K💓‍",
+      "type": 3,
+      "api": "csp_NewErXiaoGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "isActive": 1,
+      "priority": 1
+    },
+    {
+      "key": "玩偶",
+      "name": "💓‍玩偶┃4K💓‍",
+      "type": 3,
+      "api": "csp_NewWoggGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "isActive": 1,
+      "priority": 1
+    },
+    {
+      "key": "NewZhiZhen",
+      "name": "💓至臻┃4K💓",
+      "type": 3,
+      "api": "csp_NewZhiZhenGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "isActive": 1,
+      "priority": 1
+    },
+    {
+      "key": "WexYiYs",
+      "name": "💥伊影┃秒播💥",
+      "type": 3,
+      "api": "csp_WexYiYsGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "isActive": 1,
+      "priority": 1
+    },
+    {
+      "key": "WexGuaZi",
+      "name": "💥瓜子┃秒播💥",
+      "type": 3,
+      "api": "csp_WexGuaZiGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "isActive": 1,
+      "priority": 1
+    },
+    {
+      "key": "WexReBo",
+      "name": "💥热播┃秒播💥",
+      "type": 3,
+      "api": "csp_WexReBoGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "isActive": 1,
+      "priority": 1
+    },
+    // 短剧源
+    {
+      "key": "DuanJuHaoKan",
+      "name": "🍉短剧┃好看🍉",
+      "type": 3,
+      "api": "csp_DuanJuHaoKanGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "isActive": 1,
+      "priority": 1
+    },
+    {
+      "key": "DuanJuQiMiao",
+      "name": "🍉短剧┃小猫🍉",
+      "type": 3,
+      "api": "csp_DuanJuQiMiaoGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "isActive": 1,
+      "priority": 1
+    },
+    // 磁力+采集源
+    {
+      "key": "新6V",
+      "name": "🎇新6V┃磁力🎇",
+      "type": 3,
+      "api": "csp_WexXb6vGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "isActive": 1,
+      "priority": 1
+    },
+    {
+      "key": "WexIkanBot",
+      "name": "🎇爱看┃采集🎇",
+      "type": 3,
+      "api": "csp_WexIkanBotGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "isActive": 1,
+      "priority": 1
+    },
+    // 核心网盘源
+    {
+      "key": "MyBaiDu",
+      "name": "💓我的┃百度💓‍",
+      "type": 3,
+      "api": "csp_MyBaiDuGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 80,
+      "isActive": 1,
+      "priority": 1
+    },
+    {
+      "key": "MyQuark",
+      "name": "💓我的┃夸克💓‍",
+      "type": 3,
+      "api": "csp_MyQuarkGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 80,
+      "isActive": 1,
+      "priority": 1
+    },
+    // 基础搜索工具
+    {
+      "key": "SoBaiDuSo",
+      "name": "🎠给力┃百度🎠",
+      "type": 3,
+      "api": "csp_SoBaiDuSoGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "isActive": 1,
+      "priority": 1
+    }
+  ],
+  "doh": [
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": ["1.1.1.1", "1.0.0.1"]
+    }
+  ],
+  "rules": [], // 清空所有嗅探、弹窗处理规则（避免冗余）
+  "ads": [], // 清空广告屏蔽列表（精简核心）
+  "lives": [],
+  "headers": [
+    {
+      "host": "*.bcebos.com",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
+      }
+    }
+  ]
+}
